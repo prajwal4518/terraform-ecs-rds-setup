@@ -1,1 +1,0 @@
-# terraform-ecs-rds-setup
